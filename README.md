@@ -1,4 +1,4 @@
-![imagen](https://github.com/vicoro/vicoro/assets/50499171/89aaa707-b1c3-40ae-a10b-c6f7a5d4159b)<div align="center">
+
 <h1 align="center">Hola, soy Vico CreActive 👋</h1>
 </div>
 <img src="https://i.imgur.com/3dzvgmB.jpg">
