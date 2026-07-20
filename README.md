@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola, soy Vicodea 👋</h1>
 </div>
-<img src="https://i.imgur.com/3dzvgmB.jpg">
+
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWQems0n99VJZzWufTPccyQ)
@@ -10,7 +10,7 @@
 
 ## Sobre mi
 
-Bienvenidos a "Vico CreActive", el espacio donde la tecnología y la creatividad se unen para transformar ideas en realidad. 🚀✨<br>
+Bienvenidos a "Vicodea", el espacio donde la tecnología y la creatividad se unen para transformar ideas en realidad. 🚀✨<br>
 
 Soy un entusiasta de la innovación digital, dedicado a compartir conocimientos y proyectos que abarcan desde el desarrollo web hasta las maravillas del Internet de las Cosas (IoT), la magia de la electrónica, y el arte visual de la serigrafía y la sublimación.<br>
 
